@@ -442,6 +442,12 @@ body {
     .response {
         display: block;
     }
+    .response:active {
+        display: block;
+    }
+    .response:hover {
+        display: block;
+    }
     .response-active{
         left: 0; 
     }
